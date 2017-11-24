@@ -10,3 +10,5 @@ a Generic Hash Table!
 	
 ## To Uninstall
 	run 'make clear'
+	
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)	
